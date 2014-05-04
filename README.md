@@ -1,6 +1,12 @@
 Glass Mirror API using node.js Demo
 ======================================
 
+I forked this excellent example for usage in my upcoming book on Google Glass software development.
+
+See commit history for notes on what I updated and why.
+
+- Mark
+
 A brief demo showing how to authenticate and make a couple simple requests with the Google Glass Mirror API using node.js
 
 [Here's a blog post detailing the code contained in this repo.](http://www.recursiverobot.com/post/57348836217/getting-started-with-the-mirror-api-using-node-js)
