@@ -4,9 +4,8 @@ var express = require('express'), http = require('http'), googleapis = require('
 
 //You will need to set these three environment variables before running
 //Find the values at the Developer Console APIs & Auth > APIs > Credentials > OAuth
-//Mac: $ EXPORT PROJECT_NAME_CLIENT_ID="1482blahblah"
+//Mac: $ export PROJECT_NAME_CLIENT_ID="1482blahblah"
 //PC:  $ EXPORT PROJECT_NAME_CLIENT_ID 1482blahblah
-//Open new shell prompt to be sure 
 
 var oauth2Client = new OAuth2Client(process.env.SDFGGXE16_CLIENT_ID,
 		process.env.SDFGGXE16_CLIENT_SECRET,
